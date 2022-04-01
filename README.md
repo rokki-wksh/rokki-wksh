@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 |key|value|
 |----|----|
-|name|わかさ `(wsv)`|
+|name|ろっき `(rokki-wksh, rokki_wksh)`|
 |mail|roki.wakasa.hiroki.tech@gmail.com|
-|note|[@wakaserv](https://note.com/wakaserv)|
+|note|[@rokki_wksh](https://note.com/rokki_wksh)|
 
 ## 主なスキル
 
 - C#
-- HTML / css / javascript / JQuery
+- HTML / css / JavaScript / JQuery
 - SQLServer
   - テーブル設計
   - SSMSで実行プラン見ながらINDEXやらSQLやら組み替えゴリゴリ
@@ -51,10 +51,13 @@ Here are some ideas to get you started:
 - 2社目
   - 医療系自社パッケージ
   - 東京本社の会社の北海道支社に勤務
-  - 2017年～現在
+  - 2017年～2022年3月
   - 要件定義、設計、実装、テスト
   - プロジェクトリーダー
   - 課長職（課員の評価査定、その他事務作業）
   - C++ → C#（Web）
+- 3社目
+  - SES（単価連動型）
+  - 2022年4月～現在
 
 [職務経歴](biography.md)
